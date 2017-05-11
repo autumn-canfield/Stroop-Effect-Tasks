@@ -1,0 +1,31 @@
+#test_content{
+    width: 500px;
+    height: 350px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #aaaaaa;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    background-color: #999999;
+}
+
+#table{
+    width: 500px;
+    height: 350px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+
+#button_div{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
